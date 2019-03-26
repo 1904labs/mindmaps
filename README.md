@@ -2,3 +2,6 @@ This mapping represents the different projects 1904 is working on.  The technolo
 
 This is a document that can be owned by the labs and it's teams.  I will be making updates as I go and I would welcome anyone in the labs to do the same. 
 
+To view the .mm file you need to download the mindmap tool freemind: 
+http://freemind.sourceforge.net/wiki/index.php/Main_Page
+
