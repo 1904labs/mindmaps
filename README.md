@@ -5,3 +5,6 @@ This is a document that can be owned by the labs and it's teams.  I will be maki
 To view the .mm file you need to download the mindmap tool freemind: 
 http://freemind.sourceforge.net/wiki/index.php/Main_Page
 
+[1904 Open Source Team Visulization] (./open-source-visualization.html)
+
+This was adapted from a D3.js example created by Michael Bostock
